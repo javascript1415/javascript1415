@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Abhishek+Acharya+%F0%9F%91%8B;Full-Stack+Developer;Django+%26+Next.js+Expert;Building+Production-Ready+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Abhishek+Acharya+%F0%9F%91%8B;Full-Stack+Developer;Django+%26+Next.js+Expert;Building+Production-Ready+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javascript1415&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=javascript1415&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
 </div>
 
 ## 👨‍💻 About Me
@@ -55,7 +55,7 @@ const abhishek = {
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=javascript1415&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=javascript1415&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 <div align="center">
