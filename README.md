@@ -1,13 +1,24 @@
-# Hi there, I'm Abhishek Acharya 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Abhishek+Acharya+%F0%9F%91%8B;Full-Stack+Developer;Django+%26+Next.js+Expert;Building+Production-Ready+Apps" alt="Typing SVG" />
+</div>
 
-## About Me
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=javascript1415&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</div>
 
-🔭 I'm currently working on a **Film Finance Management Application**  
-🌱 I'm learning **backend development** with Node.js, Express, and PostgreSQL  
-💼 **Full-stack developer** specializing in Python, Django, Next.js, React, and TypeScript  
-🐍 Expert in **Django** and **Django REST Framework**  
-📍 Based in **Kathmandu, Nepal**  
-⚡ Fun fact: I love building production-ready web applications and AI-powered solutions
+## 👨‍💻 About Me
+
+```typescript
+const abhishek = {
+    location: "Kathmandu, Nepal 🇳🇵",
+    currentFocus: "Film Finance Management Application 🎬",
+    learning: ["Node.js", "Express", "PostgreSQL"],
+    expertise: ["Django", "Django REST Framework", "Next.js", "React", "TypeScript"],
+    funFact: "I love building production-ready web applications and AI-powered solutions ⚡",
+    askMeAbout: ["Web Development", "Backend Architecture", "AI Integration"],
+    availableForHire: true
+};
+```
 
 ## 🛠️ Tech Stack
 
@@ -39,44 +50,86 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javascript1415&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=javascript1415&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascript1415&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=javascript1415&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=javascript1415&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascript1415&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=javascript1415&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 ## 🚀 Featured Projects
 
-### 🎬 [Film Finance Management App](https://github.com/Siddhant52035/Film-Finance-App)
-A full-stack **multi-tenant SaaS** for film production budgeting, quotations, and payment scheduling.
-- **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Express
-- **Features:** Role-based access control, PDF generation, waterfall analysis
-- **Status:** Active Development
+<div align="center">
 
-### 🤖 Nepal Telecom AI Chatbot
-Contributed to an AI-powered chatbot for Nepal Telecom customer service.
-- **Tech Stack:** Python, AI/LLM Integration
-- **Impact:** Improved customer support automation
+### 🎬 Film Finance Management App
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Siddhant52035&repo=Film-Finance-App&theme=tokyonight&hide_border=true)](https://github.com/Siddhant52035/Film-Finance-App)
 
-### 🛒 E-commerce Platform (Full Django)
-Complete e-commerce solution built with Django full-stack.
-- **Tech Stack:** Django, PostgreSQL
-- **Features:** Product management, shopping cart, checkout, payment integration
+**A full-stack multi-tenant SaaS** for film production budgeting, quotations, and payment scheduling.
 
-### 🛍️ E-commerce Backend (DRF)
-RESTful API backend for e-commerce platform.
-- **Tech Stack:** Django REST Framework
-- **Features:** API endpoints, authentication, order management
+🔧 **Tech Stack:** Next.js · TypeScript · Prisma · PostgreSQL · Express  
+✨ **Features:** Role-based access control · PDF generation · Waterfall analysis  
+📍 **Status:** 🟢 Active Development
 
-### 💬 Chat Application
-Real-time chat application with Django REST Framework.
-- **Tech Stack:** Django REST Framework, WebSockets
-- **Features:** Real-time messaging, user authentication
+---
+
+### 🤖 AI & Chatbot Projects
+
+<div align="center">
+  <a href="https://github.com/javascript1415/chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=chatbot&theme=tokyonight&hide_border=true" alt="Chatbot" />
+  </a>
+  <a href="https://github.com/javascript1415/qa_app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=qa_app&theme=tokyonight&hide_border=true" alt="QA App" />
+  </a>
+</div>
+
+**Nepal Telecom AI Chatbot** - Contributed to an AI-powered chatbot for customer service automation  
+🔧 **Tech Stack:** Python · AI/LLM Integration
+
+---
+
+### 🛒 E-commerce Solutions
+
+<div align="center">
+  <a href="https://github.com/javascript1415/land-renting-ststem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=land-renting-ststem&theme=tokyonight&hide_border=true" alt="Land Renting System" />
+  </a>
+</div>
+
+**Full-Stack E-commerce Platform** - Complete e-commerce solution built with Django  
+🔧 **Tech Stack:** Django · PostgreSQL · Django REST Framework  
+✨ **Features:** Product management · Shopping cart · Payment integration · Order management
+
+---
+
+### 💼 Productivity & Utility Apps
+
+<div align="center">
+  <a href="https://github.com/javascript1415/password-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=password-manager&theme=tokyonight&hide_border=true" alt="Password Manager" />
+  </a>
+  <a href="https://github.com/javascript1415/daily_spend_bill">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=daily_spend_bill&theme=tokyonight&hide_border=true" alt="Daily Spend Bill" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/javascript1415/todo_django">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=todo_django&theme=tokyonight&hide_border=true" alt="Todo Django" />
+  </a>
+  <a href="https://github.com/javascript1415/customauth">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=customauth&theme=tokyonight&hide_border=true" alt="Custom Auth" />
+  </a>
+</div>
+
+**Password Manager** · **Daily Spend Tracker** · **Todo App** · **Custom Authentication System**
+
+</div>
 
 ## 📫 Connect With Me
 
@@ -88,11 +141,19 @@ Real-time chat application with Django REST Framework.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=javascript1415&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70" />
+  
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=javascript1415&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/javascript1415?label=Followers&style=for-the-badge&color=10B981&logo=github" alt="Followers" />
 </div>
 
 <div align="center">
   
-  **💡 Open to collaborations and exciting projects!**
+  **💡 Open to collaborations and exciting projects!**  
+  **📧 Let's connect and build the future together**
   
 </div>
