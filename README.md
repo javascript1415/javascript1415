@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+there%2C+I'm+Abhishek+Acharya+%F0%9F%91%8B;Full-Stack+Developer;Django+%26+Next.js+Expert;Building+Production-Ready+Apps" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=javascript1415&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</div>
+
 
 ## 👨‍💻 About Me
 
@@ -49,14 +47,6 @@ const abhishek = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=javascript1415&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascript1415&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=javascript1415&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=javascript1415&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
@@ -97,7 +87,6 @@ const abhishek = {
 
 <div align="center">
   <a href="https://github.com/javascript1415/land-renting-ststem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=land-renting-ststem&theme=tokyonight&hide_border=true" alt="Land Renting System" />
   </a>
 </div>
 
@@ -111,19 +100,15 @@ const abhishek = {
 
 <div align="center">
   <a href="https://github.com/javascript1415/password-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=password-manager&theme=tokyonight&hide_border=true" alt="Password Manager" />
   </a>
   <a href="https://github.com/javascript1415/daily_spend_bill">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=daily_spend_bill&theme=tokyonight&hide_border=true" alt="Daily Spend Bill" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/javascript1415/todo_django">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=todo_django&theme=tokyonight&hide_border=true" alt="Todo Django" />
   </a>
   <a href="https://github.com/javascript1415/customauth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=customauth&theme=tokyonight&hide_border=true" alt="Custom Auth" />
   </a>
 </div>
 
