@@ -57,7 +57,6 @@ const abhishek = {
 <div align="center">
 
 ### 🎬 Film Finance Management App
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Siddhant52035&repo=Film-Finance-App&theme=tokyonight&hide_border=true)](https://github.com/Siddhant52035/Film-Finance-App)
 
 **A full-stack multi-tenant SaaS** for film production budgeting, quotations, and payment scheduling.
 
@@ -69,14 +68,7 @@ const abhishek = {
 
 ### 🤖 AI & Chatbot Projects
 
-<div align="center">
-  <a href="https://github.com/javascript1415/chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=chatbot&theme=tokyonight&hide_border=true" alt="Chatbot" />
-  </a>
-  <a href="https://github.com/javascript1415/qa_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=javascript1415&repo=qa_app&theme=tokyonight&hide_border=true" alt="QA App" />
-  </a>
-</div>
+
 
 **Nepal Telecom AI Chatbot** - Contributed to an AI-powered chatbot for customer service automation  
 🔧 **Tech Stack:** Python · AI/LLM Integration
