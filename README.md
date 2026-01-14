@@ -1,8 +1,7 @@
 <div align="center">
   
   <!-- Dynamic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Acharya&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Django%20%26%20Next.js%20Expert&descAlignY=55&descSize=20" />
-  
+
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=50&lines=Building+Production-Ready+Applications+%F0%9F%9A%80;Django+%7C+Next.js+%7C+TypeScript+Expert;AI+%26+SaaS+Solutions+Developer;Open+for+Exciting+Collaborations+%F0%9F%92%BC" alt="Typing SVG" />
   
@@ -173,12 +172,7 @@ CI/CD Pipelines
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=javascript1415&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=javascript1415&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=javascript1415&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  
+
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=javascript1415&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 </div>
@@ -381,7 +375,7 @@ graph LR
 
 ### 📚 Learning Path
 
-- Advanced Node.js
+- Advanced Django Rest Framework
 - Microservices Architecture
 - DevOps & CI/CD
 - Machine Learning Basics
