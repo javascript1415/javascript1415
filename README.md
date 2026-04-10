@@ -39,7 +39,7 @@ const abhishekAcharya = {
     location: "Kathmandu, Nepal 🇳🇵",
     company: "Available for Hire",
     
-    currentlyWorking: {
+    RecentlyCompleted: {
         project: "Film Finance Management SaaS",
         role: "Lead Developer",
         stack: ["Next.js", "TypeScript", "PostgreSQL", "Express"]
@@ -52,9 +52,9 @@ const abhishekAcharya = {
         architecture: ["Multi-tenant SaaS", "RESTful APIs", "Microservices"]
     },
     
-    currentlyLearning: ["Advanced Node.js Patterns", "System Design", "AI Integration"],
+    currentlyLearning: [ "System Design", "AI Integration","Cloud Hosting"],
     
-    interests: ["Web Development", "SaaS Products", "AI/ML", "Open Source"],
+    interests: ["Web Development", "SaaS Products", "AI/ML", "Data Science"],
     
     funFact: "I turn coffee into production-ready code ☕ → 💻",
     
